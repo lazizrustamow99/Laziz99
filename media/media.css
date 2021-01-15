@@ -207,7 +207,7 @@
         font-size: 22px;
     }
     .header .header__content .header__container .header__title {
-        font-size: 17px;
+        font-size: 15px;
     }
     .header .header__content .header__container .header__description {
         line-height: 16px;
@@ -216,6 +216,9 @@
         padding: 10px 10px 10px 10px;
     }
     .header .header__content .header__container .header__form .form__label_inp {
+        min-width: 235px;
+    }
+    .header .header__content .header__container .header__form .form__area {
         min-width: 235px;
     }
     .form__area {
