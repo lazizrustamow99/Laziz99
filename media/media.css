@@ -207,7 +207,9 @@
         font-size: 22px;
     }
     .header .header__content .header__container .header__title {
-        font-size: 15px;
+        font-size: 25px;
+        text-align: center;
+        line-height: 35px;
     }
     .header .header__content .header__container .header__description {
         line-height: 16px;
